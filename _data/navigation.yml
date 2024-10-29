@@ -1,9 +1,15 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /projects/
+  - title: "Seminars & Workshops"
+    url: /seminars-workshops/
+  - title: "Experiences"
+    url: /experiences/
+  - title: "Licenses & Certifications"
+    url: /licenses-certifications/
+  - title: "Skills"
+    url: /skills/
   - title: "About"
     url: /about/
