@@ -3,12 +3,12 @@ main:
     url: /publications/
   - title: "Projects"
     url: /projects/
-  - title: "Seminars & Workshops"
-    url: /seminars-workshops/
+  - title: "Seminars"
+    url: /seminars/
   - title: "Experiences"
     url: /experiences/
-  - title: "Licenses & Certifications"
-    url: /licenses-certifications/
+  - title: "Certifications"
+    url: /certifications/
   - title: "Skills"
     url: /skills/
   - title: "About"
