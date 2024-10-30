@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my website
 twitter_username: ParhamPishro
 github_username: ParhamPishro
-minimal_mistakes_skin: sunrise
-search: false
+minimal_mistakes_skin: default
+search: true
 
 # Build settings
 markdown: kramdown
