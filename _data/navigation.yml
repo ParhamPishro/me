@@ -9,8 +9,6 @@ main:
     url: /experiences/
   - title: "Certifications"
     url: /certifications/
-  - title: "Skills"
-    url: /skills/
   - title: "Gallery"
     url: /gallery/
   - title: "Files"
