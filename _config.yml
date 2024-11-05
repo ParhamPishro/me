@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Parham Pishro"
   avatar : "/assets/images/P-Pishro.jpg"
-  bio    : "It's my bio."
+  bio    : "Graduated with a Master's Degree in Data Science"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -98,8 +98,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
       comments: true
       share: true
       related: true
