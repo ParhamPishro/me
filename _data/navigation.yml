@@ -15,9 +15,9 @@ main:
     url: /files/
   - title: "About"
     url: /about/
-  - title: "Tag"
-    url: /tag-archive/
-  - title: "Year"
-    url: /year-archive/
-  - title: "Category"
-    url: /category-archive/
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
