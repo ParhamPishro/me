@@ -117,3 +117,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+publications:
+  type: liquid
+  path: /publications/
+projects:
+  type: liquid
+  path: /projects/
